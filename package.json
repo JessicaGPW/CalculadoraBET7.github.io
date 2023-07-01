@@ -1,0 +1,19 @@
+{
+  "name": "calculadora-bet7",
+  "version": "1.0.0",
+  "description": "Calculadora de apostas",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaGPW/JessicaGPW.github.io.git"
+  },
+  "author": "Jessica Baptista e Thayná Pinheiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaGPW/JessicaGPW.github.io/issues"
+  },
+  "homepage": "https://github.com/JessicaGPW/JessicaGPW.github.io#readme"
+}
